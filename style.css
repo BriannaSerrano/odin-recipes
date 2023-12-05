@@ -1,0 +1,25 @@
+body {
+  background-image: url("https://cdn.autobild.es/sites/navi.axelspringer.es/public/media/image/2015/03/404447-ahora-chef-cocina-casa-ultimo-gastronomia.jpg?tf=3840x");
+  background-size: cover;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto', arial;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: row;
+  height: 100vh;
+  
+}
+
+.container {
+  display: flex;
+  width: 300px;
+  padding: 25px;
+  border: 25px solid navy;
+  margin: 25px;
+  background-color: white;
+
+}
+
